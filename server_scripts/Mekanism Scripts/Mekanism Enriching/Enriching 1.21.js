@@ -17,7 +17,7 @@ ServerEvents.recipes(Receita =>
     })
   }
 
-Enriching_Recipes("c:raw_materials/copper", 1 , 3, "alltheores:copper_dust")
+Enriching_Recipes("c:raw_materials/copper", 1 , 3, "mekanism:dust_copper")
 
 //Receita de Raw Gold para Gold Dust na Enrichment Chamber
 Enriching_Recipes("c:raw_materials/gold",1, 3, "mekanism:dust_gold")
@@ -44,7 +44,7 @@ Enriching_Recipes("c:raw_materials/osmium",1, 3, "mekanism:dust_osmium")
 Enriching_Recipes("c:raw_materials/zinc",1, 3, "alltheores:zinc_dust")
 
 //Receita Tin Raw para Tin Dust na Enrichment Chamber
-Enriching_Recipes("c:raw_materials/tin",1, 3, "alltheores:tin_dust")
+Enriching_Recipes("c:raw_materials/tin",1, 3, "mekanism:dust_tin")
 
 //Receita Raw Allthemodium para Allthemodium Dust na Enrichment Chamber
 Enriching_Recipes("c:raw_materials/allthemodium",1, 3, "allthemodium:allthemodium_dust")
@@ -59,6 +59,11 @@ Enriching_Recipes("c:raw_materials/unobtainium",1, 3, "allthemodium:unobtainium_
 Enriching_Recipes("c:raw_materials/uranium",1, 3, "mekanism:dust_uranium")
 
 //Receita Raw Lead para Lead Dust na Enrichment Chamber
-Enriching_Recipes("c:raw_materials/lead",1, 3, "alltheores:lead_dust")
+Enriching_Recipes("c:raw_materials/lead",1, 3, "mekanism:dust_lead")
+
+Enriching_Recipes("c:raw_materials/crimson_iron",1, 3, "silentgear:crimson_iron_dust")
+
+Enriching_Recipes("c:raw_materials/azure_silver", 1, 3, "silentgear:azure_silver_dust")
+
 
 })

@@ -23,4 +23,7 @@
 		}
         )
     }
+Recipe("allthemodium:allthemodium_pickaxe", 1, "allthemodium:allthemodium_plate", "allthemodium:allthemodium_plate", "allthemodium:allthemodium_plate", 
+	"minecraft:air", "allthemodium:allthemodium_rod", "minecraft:air",
+"minecraft:air", "allthemodium:allthemodium_rod", "minecraft:air")
 }) */
