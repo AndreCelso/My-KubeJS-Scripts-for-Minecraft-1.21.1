@@ -65,5 +65,9 @@ Enriching_Recipes("c:raw_materials/crimson_iron",1, 3, "silentgear:crimson_iron_
 
 Enriching_Recipes("c:raw_materials/azure_silver", 1, 3, "silentgear:azure_silver_dust")
 
+Enriching_Recipes("c:raw_materials/ferricore", 1, 3, "justdirethings:ferricore_ingot")
 
+Enriching_Recipes("c:raw_materials/blazegold", 1 , 3, "justdirethings:blazegold_ingot")
+
+Enriching_Recipes("c:raw_materials/eclipsealloy", 1, 3, "justdirethings:eclipsealloy_ingot")
 })

@@ -17,6 +17,8 @@ ServerEvents.recipes(Receita =>
      }
      })
     }
+
+Crushing_Recipes(1, "minecraft:amethyst_block", 4, "minecraft:amethyst_shard")
 /* //Receita de Raw Crimson Iron para Crimson Iron Dust no Crusher (2x)
 Crushing_Recipes("silentgear:raw_crimson_iron", 1, 2, "silentgear:crimson_iron_dust", "Custom_Crimson_Iron_Crushing") */
 

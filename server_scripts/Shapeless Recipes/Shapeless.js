@@ -14,6 +14,12 @@ ServerEvents.recipes(Receita =>
 
   Shapeless("allthemodium:allthemodium_plate","kubejs:silent_allthemodium_plate")
 
+  //Receita de Conversão de Calcita feito com Diorito
+  Shapeless("minecraft:calcite", "minecraft:diorite")
+
+  //Receita de Conversão de Diorito feito com Calcita
+  Shapeless("minecraft:diorite", "minecraft:calcite")
+
 /*   Shapeless("kubejs:silent_vibranium_plate", ["allthemodium:vibranium_ingot", "c:tools/hammer"])
 
   Shapeless("kubejs:silent_unobtainium_plate", ["allthemodium:unobtainium_ingot", "c:tools/hammer"]) */

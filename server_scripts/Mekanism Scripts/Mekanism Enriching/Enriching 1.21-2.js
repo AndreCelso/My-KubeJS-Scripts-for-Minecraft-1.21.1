@@ -23,4 +23,6 @@ ServerEvents.recipes(Receita =>
 
   Enriching_Recipes("silentgear:netherwood_sapling", 1, 2, "silentgear:nether_banana")
 
+  
+
 })
