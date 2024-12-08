@@ -13,4 +13,9 @@ event.shaped("quarryplus:repeat_tick_module", ['APA', 'PTP', 'APM'],
  M: "quarryplus:marker"
 })
 
+event.shaped("allthemodium:allthemodium_axe", ['AA ', 'AR ', ' R '],
+{
+    A: "allthemodium:allthemodium_plate",
+    R: "allthemodium:allthemodium_rod"
+})
 })

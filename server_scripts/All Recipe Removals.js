@@ -17,5 +17,5 @@ ServerEvents.recipes(Receita =>
         Receita.remove({id: "alltheores:mek_processing/silver/dust/from_raw_ore",})
         Receita.remove({id: "alltheores:mek_processing/iridium/dust/from_raw_ore",})
         Receita.remove({id: "alltheores:mek_processing/zinc/dust/from_raw_ore",})
-    
+        Receita.remove({id: "enderio:enchanting/impaling"})
     })

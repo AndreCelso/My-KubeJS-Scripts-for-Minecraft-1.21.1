@@ -70,4 +70,6 @@ Enriching_Recipes("c:raw_materials/ferricore", 1, 3, "justdirethings:ferricore_i
 Enriching_Recipes("c:raw_materials/blazegold", 1 , 3, "justdirethings:blazegold_ingot")
 
 Enriching_Recipes("c:raw_materials/eclipsealloy", 1, 3, "justdirethings:eclipsealloy_ingot")
+
+Enriching_Recipes("c:ores/inferium", 1, 6, "mysticalagriculture:inferium_essence")
 })
